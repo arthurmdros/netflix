@@ -2,4 +2,10 @@
     <string name="app_name">Netflix</string>
     <string name="title">House of Cards</string>
     <string name="description">S1:E2</string>
+    <string name="icMessage">Descrição</string>
+    <string name="icSound">Volume</string>
+    <string name="icStar">Favorito</string>
+    <string name="icContet">Contéudo</string>
+    <string name="start">1:30</string>
+    <string name="end">42:30</string>
 </resources>
