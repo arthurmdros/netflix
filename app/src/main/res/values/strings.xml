@@ -5,7 +5,11 @@
     <string name="icMessage">Descrição</string>
     <string name="icSound">Volume</string>
     <string name="icStar">Favorito</string>
-    <string name="icContet">Contéudo</string>
+    <string name="icContent">Contéudo</string>
+    <string name="image">Imagem</string>
+    <string name="icBack">Voltar</string>
+    <string name="icPlay">Play</string>
+    <string name="icPause">Pausar</string>
     <string name="start">1:30</string>
     <string name="end">42:30</string>
 </resources>
